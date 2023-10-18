@@ -1,1 +1,1 @@
-Implémenter un calculatrice en java.
+Implémenter une calculatrice en java.
